@@ -1,0 +1,20 @@
+1.-A Multi-Robot System for Continuous Area Sweeping Tasks
+Mazda Ahmadi and Peter Stone
+Department of Computer Sciences
+The University of Texas at Austin
+Email: {mazda,pstone}@cs.utexas.edu
+http://www.cs.utexas.edu/ ̃{mazda,pstone}
+
+2.-Cooperative Leader Following in a Distributed Multi-Robot System 
+Stefan Carpinl and Lynne E. Parker
+Department of Electronics and Informatics The University of Padova, ITALY 
+Center for Engineering Science Advanced Research 
+Computer Science and Mathematics Division 
+Oak Ridge National Laboratory (ORNL) U.S.A. 
+E-mail: shamano@dei.unipd.it, parkerle@ornl.gov 
+
+3.-Design and Use Paradigms for Gazebo, An Open-Source Multi-Robot Simulator
+Nathan Koenig, Andrew Howard
+Robotics Research Labs, University of Southern California
+Los Angeles,CA 90089-0721, USA
+Email: nkoenig@robotics.usc.edu, ahoward@robotics.usc.edu
