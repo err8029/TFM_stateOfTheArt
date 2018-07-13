@@ -18,3 +18,10 @@ Nathan Koenig, Andrew Howard
 Robotics Research Labs, University of Southern California
 Los Angeles,CA 90089-0721, USA
 Email: nkoenig@robotics.usc.edu, ahoward@robotics.usc.edu
+
+To download:
+
+1.-J. H. Reif, H. Wang. Social Potential Fields: A Distributed
+Behavioral Control for Autonomous Robots. K. Goldberg
+(Ed.) Algorithmic Foundations of Robotics, AK Peters,
+1995, pp. 331-336
